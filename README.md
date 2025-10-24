@@ -86,7 +86,9 @@ EDA Notebook: customer_analysis.ipynb
 
 SQL Queries: analysis_queries.sql
 
-Power BI Dashboard: customer_dashboard.pbix
+Power BI Dashboard: customer_dashboard.pbix 
+
+Presentation link  : https://gamma.app/docs/Customer-Shopping-Behavior-Analysis-l8yagq7ctri9ktw?mode=present#card-1djkm1nkbzr8ln9
 
 Report: customer_behavior_report.pdf
 
