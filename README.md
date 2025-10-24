@@ -1,4 +1,5 @@
 🧠 Customer Shopping Behavior – Data Analytics Project
+
 📌 Overview
 This project focuses on analyzing customer shopping behavior to uncover insights about purchase patterns, product performance, and customer segments. The workflow covers the full data analytics pipeline — from data cleaning and exploration to SQL-based analysis, dashboard visualization, and report presentation.
 The goal is to translate raw data into actionable business insights that support decision-making in sales, marketing, and customer engagement.
